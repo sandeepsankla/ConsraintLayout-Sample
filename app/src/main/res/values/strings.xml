@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ConstraintLayout Sample</string>
+    <string name="textview">TextView</string>
+    <string name="lorem_text">Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Aliquam posuere, odio
+        eu pulvinar vulputate, velit nisi interdum mi, cursus
+        vehicula mauris dolor sit amet tortor. Nullam neque ipsum,
+        fermentum a sem laoreet, lobortis consectetur arcu.
+        Suspendisse volutpat volutpat est eget imperdiet.
+        Sed tristique aliquet ipsum, sit amet mattis erat viverra non.
+        Donec finibus nisi eget tellus varius, at pharetra augue cursus.
+        Donec elementum id quam ut finibus. Proin vehicula,
+        ligula id scelerisque egestas, est eros aliquam odio,
+        non scelerisque ante lectus eget tellus. Maecenas fermentum
+        ultrices purus id pretium. Praesent quis vehicula dui.</string>
+</resources>
